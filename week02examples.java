@@ -82,3 +82,4 @@ public class week02examples {
 		  System.out.println(!false && (true && !true));
 	}
 	}
+// my comment
